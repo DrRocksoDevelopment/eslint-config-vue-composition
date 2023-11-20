@@ -1,0 +1,6 @@
+# Excludes files
+node_modules
+
+# Optional dir and files
+.idea
+package-lock.json
