@@ -12,8 +12,8 @@ This package includes instructions that are not added to the general linting pac
 - elint-plugin-vue: ^9.16.1
 
 ## PeerDependencies
-- eslint": >= 8.50.0
-- typescript": >= 5.0.0
+- eslint: >= 8.50.0
+- typescript: >= 5.0.0
 
 ## Install
 - NPM: <code>npm install -D @rockso/eslint-config-vue-composition</code>
