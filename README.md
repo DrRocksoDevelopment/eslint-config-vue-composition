@@ -16,14 +16,14 @@ This package includes instructions that are not added to the general linting pac
 - typescript: >= 5.0.0
 
 ## Install
-- NPM: <code>npm install -D @rockso/eslint-config-vue-composition</code>
-- PNPM: <code>pnpm add -D @rockso/eslint-config-vue-composition</code>
+- NPM: <code>npm install -D @rocksodevelopment/eslint-config-vue-composition</code>
+- PNPM: <code>pnpm add -D @rocksodevelopment/eslint-config-vue-composition</code>
 
 ## Usage
 ```JavaScript
   // .my-eslintrc.cjs
 
   module.exports = {
-    extends: ["@rockso/eslint-config-vue-composition"]
+    extends: ["@rocksodevelopment/eslint-config-vue-composition"]
   }
 ```
