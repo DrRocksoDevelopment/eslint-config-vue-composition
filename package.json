@@ -1,6 +1,6 @@
 {
   "name": "@rocksodevelopment/eslint-config-vue-composition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint shareable config for Vue projects",
   "main": "index.js",
   "keywords": [
