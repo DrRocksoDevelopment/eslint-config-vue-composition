@@ -3,4 +3,8 @@ node_modules
 
 # Optional dir and files
 .idea
+
+
+# Lock
+pnpm-lock.yaml
 package-lock.json
