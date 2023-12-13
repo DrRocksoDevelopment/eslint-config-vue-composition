@@ -12,7 +12,6 @@ module.exports = {
     },
 
     extends: [
-        "@vue/eslint-config-typescript",
         "plugin:vue/vue3-strongly-recommended"
     ],
 
@@ -20,7 +19,7 @@ module.exports = {
         semi: ["error", "never"],
         "no-nested-ternary": "off",
         "vue/block-order": ["error", {
-            "order": [["template", "script"], "style"]
+            "order": [["template"], "script", "style"]
         }],
         "vue/no-mutating-props": ["error", {
             "shallowOnly": false
