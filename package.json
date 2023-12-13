@@ -1,6 +1,6 @@
 {
   "name": "@rocksodevelopment/eslint-config-vue-composition",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint shareable config for Vue projects",
   "main": "index.js",
   "keywords": [
@@ -10,6 +10,10 @@
     "share",
     "config"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrRocksoDevelopment/eslint-config-vue-composition"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.7.2",
     "@typescript-eslint/parser": "^6.7.2"
