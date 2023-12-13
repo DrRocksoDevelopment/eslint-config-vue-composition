@@ -1,5 +1,6 @@
 # Optional dir and files
 .idea
+.github
 
 # Lock
 pnpm-lock.yaml
