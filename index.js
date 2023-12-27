@@ -45,7 +45,8 @@ module.exports = {
         "vue/no-undef-properties": ["error"],
         "vue/no-unsupported-features": ["error", {
             "version": "^2.7.0"
-        }]
+        }],
+        "vue/multi-word-component-names": ["warn"]
     },
 
     parserOptions: {
